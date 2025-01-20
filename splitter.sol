@@ -53,7 +53,7 @@ abstract contract Context {
 abstract contract Ownable is Context {
     address private _owner;
 
-    string websiteLink = "https://github.com/roberts/reb";
+    string websiteLink = "https://github.com/roberts/dream";
 
     /**
      * @dev Updates the websiteLink string with a new value
