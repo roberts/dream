@@ -1226,7 +1226,7 @@ contract Dream is ERC20, Ownable {
             marketingLopsidedSellTax +
             developerLopsidedSellTax;
 
-        communityWallet = address(0xC6aa2f0FF6b8563EA418ec2558890D6027413699); // Community Funds
+        communityWallet = address(0x903ECB20fe5D6f1eeEE362e19e8a0c91d246bb20); // Community Funds
         marketingWallet = address(0xC6aa2f0FF6b8563EA418ec2558890D6027413699); // Marketing Funds
         developerWallet = address(0xDEB333a3240eb2e1cA45D38654c26a8C1AAd0507); // Developer Funds
 
