@@ -123,11 +123,11 @@ abstract contract Ownable is Context {
 
 contract JohnnyReb is Ownable {
     address payable public SolidityWizard =
-        payable(0x90923AD852f67682D9CcD437196a619F7BdF6Ae7);
+        payable(0x1f9aA613658dDb40910BDcaD1E235Fc1d98e7F17);
     address payable public DrewRoberts =
         payable(0xC6aa2f0FF6b8563EA418ec2558890D6027413699);
     address payable public WebAppTeam =
-        payable(0xeb6E8a1Fe7Ad4cDFa49a95ad480422c72D1Ab79C);
+        payable(0x98CF3171dE6fBb25b17dE46d9a36E00238BDF3cC);
 
     constructor() {}
 
