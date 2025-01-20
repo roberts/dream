@@ -8,6 +8,9 @@
    Function to reduce taxes to 3/3
    Function to remove taxes
    Removable anti-whale restrictions of max transaction & max wallet
+
+   i have a $DREAM
+   Blockchain $DREAM TEAM
  */
 
 /**
