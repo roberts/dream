@@ -2,9 +2,7 @@
  *
  *
    Reb Developer Splitter Contract
-   https://WillieClub.org
-   https://x.com/WillieClub
-   https://t.me/WillieClub
+   https://drewroberts.com
  */
 
 // SPDX-License-Identifier: MIT
